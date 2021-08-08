@@ -2,7 +2,7 @@
 
 A portal of category-based groups, where users can login and join to share files, news, add comments, leave groups.
 
-The users join groups, create posts, keep track of groups, by performing CRUD operations on the django mels
+The users join groups, create posts, keep track of groups, by performing CRUD operations on the django models
 
 Features:-
 
